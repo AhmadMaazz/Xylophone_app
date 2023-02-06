@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The development of this application involved utilization of the audioplayers dependency. The primary focus was to explore the integration of .wav audio files into the code and to effectively incorporate them within the app. The latest version of audioplayers, v3.0.1, was utilized to ensure maximum compatibility and functionality.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The current implementation primarily concentrates on establishing a sound infrastructure within the app, with emphasis placed on the basic front-end design. The objective is to provide a solid foundation for future updates and improvements.
